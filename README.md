@@ -16,3 +16,4 @@ word2vec Python wrapper (https://github.com/danielfrg/word2vec/blob/master/examp
 Dumps.wikimedia (Chinese: https://dumps.wikimedia.org/zhwiki/20160407/zhwiki-20160407-pages-articles.xml.bz2; English: thanks for Sravana)
 Wikiextractor.py (https://github.com/bwbaugh/wikipedia-extractor)
 Stanford CS244d assignment 1
+Explain word2vec: http://deeplearning4j.org/word2vec
