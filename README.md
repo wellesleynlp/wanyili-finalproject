@@ -13,7 +13,7 @@ Please see [wordvec_sentiment.ipynb](https://github.com/wellesleynlp/wanyili-fin
 
 [Training.ipynb](https://github.com/wellesleynlp/wanyili-finalproject/blob/master/training.ipynb) use the word2vec Python wrapper to train both English and Chinese wikipedia data using neural network.
 
-[Trained_models.ipynb](https://github.com/wellesleynlp/wanyili-finalproject/blob/master/trained_models.ipynb) is a small showcase to see what neural network does. I included examples closest words/characters to the same meaning words/character in English and Chinese. Please see the file for demonstration.
+[Trained_models.ipynb](https://github.com/wellesleynlp/wanyili-finalproject/blob/master/trained_models.ipynb) is a small showcase to see what neural network does. I included examples closest words/characters to the same meaning words/character in English and Chinese. Please see the file for demonstration. **This file contains some fun observations about closest word vectors in both English and Chinese -- please take a quick look with my explanation with some cutural insights! :) **
 
 ## Project Update
 
