@@ -1,7 +1,7 @@
 # wanyili-finalproject
 # Word vectors accross languages using deep neural nets
 
-# Project submission
+## Project submission
 
 Please read the following to see what files are included in this repository and where you should look:
 
@@ -15,7 +15,7 @@ Please see [wordvec_sentiment.ipynb](https://github.com/wellesleynlp/wanyili-fin
 
 [Trained_models.ipynb](https://github.com/wellesleynlp/wanyili-finalproject/blob/master/trained_models.ipynb) is a small showcase to see what neural network does. I included examples closest words/characters to the same meaning words/character in English and Chinese. Please see the file for demonstration.
 
-# Project Update
+## Project Update
 
 My NLP final project on word to vectors using deep neural nets.
 
